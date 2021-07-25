@@ -118,11 +118,11 @@ Todos los mayores han sido primero niños.
 > (But a few remember them)  
 
 Corrijo, pues, mi dedicatoria:
-> Corrijo - correct; corregir first person s conj
-> pues - ??
-> mi - my; first person singular possesive
-> dedicatoria - n. dedication
-> Correct, ??, my dedication
+> Corrijo - correct; corregir first person s conj  
+> pues - ??  
+> mi - my; first person singular possesive  
+> dedicatoria - n. dedication  
+> Correct, ??, my dedication  
 
 A LEON WERTH CUANDO ERA NIÑO
 > A LEON WERTH - TO LEON WERTH  
