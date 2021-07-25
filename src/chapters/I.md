@@ -48,17 +48,33 @@ sin masticarla"
 > masticarla - ??; masticar to chew  
 > without chewing"  
 
-Luego ya no puede moverse y duerme durante los seis meses que dura su digestión
-> Luego - After
-> ya - already; adv. already, anymore, by now
-> no puede - cannot; poder third person s conj
-> moverse - move; mover reflexive
-> y - and
-> duerme - sleeps; dormir third person s conj
-> durante - during; prep. during, pending
-> los seis meses - the six months
-> que - that
-> dura - long; adj. hard, tough, harsh, difficult
-> su - its 
-> digestión - digestion
-> After, now, it cannot move and sleeps during the six hard months of its digestion
+Luego ya no puede moverse y duerme durante los seis meses que dura su digestión  
+> Luego - After  
+> ya - already; adv. already, anymore, by now  
+> no puede - cannot; poder third person s conj  
+> moverse - move; mover reflexive  
+> y - and  
+> duerme - sleeps; dormir third person s conj  
+> durante - during; prep. during, pending  
+> los seis meses - the six months  
+> que - that  
+> dura - long; adj. hard, tough, harsh, difficult  
+> su - its  
+> digestión - digestion  
+> After, now, it cannot move and sleeps during the six hard months of its digestion  
+
+Reflexioné mucho en ese momento sobre las aventuras de la jungla y a mi vez logré trazar con un lápiz de colores mi primer dibujo.
+> Reflexioné - I reflected; reflexionar first person s pret conj  
+> mucho - much  
+> en ese - in that  
+> momento - moment  
+> sobre las aventuras - about the adventures  
+> de la jungla - of the jungle  
+> y a mi vez - and to my time  
+> logré - I achieved - lograr first person s pret conj  
+> trazar - to draw  
+> con - with  
+> un lápiz - a pencil  
+> de colores - of colors  
+> mi primer - my first  
+> dibujo - drawing  
