@@ -1,5 +1,4 @@
-
-#
+# Chapter II
 
 Viví así, solo, nadie con quien poder hablar verdaderamente, 
 > Viví así - I lived so; vivir yo pret conj  
