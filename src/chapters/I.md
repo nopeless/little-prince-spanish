@@ -28,6 +28,8 @@ Representaba una serpiente boa que se tragaba a una fiera.
 > una fiera - a wild beast  
 > It represented a boa snake that swallowed a wild beast  
 
+#
+
 En el libro se afirmaba:
 > En el libro - in the book  
 > se - it  
@@ -62,6 +64,8 @@ Luego ya no puede moverse y duerme durante los seis meses que dura su digestión
 > su - its  
 > digestión - digestion  
 > After, now, it cannot move and sleeps during the six hard months of its digestion  
+
+#
 
 Reflexioné mucho en ese momento sobre las aventuras de la jungla y a mi vez logré trazar con un lápiz de colores mi primer dibujo.
 > Reflexioné - I reflected; reflexionar first person s pret conj  
@@ -102,6 +106,8 @@ Enseñé mi obra de arte a las personas mayores y les pregunté si mi dibujo les
 > miedo - fear  
 > I showed my work to the old people and asked them if my drawing gave them fear.  
 
+#
+
 ¿Por qué habría de asustar un sombrero?
 > Por qué - why  
 > habría - have; haber yo/él cond conj (would/could/should)  
@@ -123,6 +129,8 @@ Representaba una serpiente boa que digiere un elefante.
 > un elefante - an elephant  
 > It represents a boa snake that digest an elephant.  
 
+#
+
 Dibujé entonces el interior de la serpiente boa a fin de que las personas mayores pudieran comprender.
 > Dibujé - I drew; dibujar yo preterite  
 > entonces - then; not plural. "entonces" is a word for "then"  
@@ -135,6 +143,8 @@ Dibujé entonces el interior de la serpiente boa a fin de que las personas mayor
 > pudieran - can; poder subj-imp; from 'I' perspective  
 > comprender - to understand  
 > I then drew the interior of the boa snake ??? that old can could understand  
+
+#
 
 Siempre estas personas tienen necesidad de explicaciones.
 > Siempre - always  
@@ -269,6 +279,8 @@ sobre todo si se pierde uno durante la noche
 > uno durante la noche - one duration a night; one overnight  
 > especially if you lose oneself(yourself) during the night  
 
+#
+
 A lo largo de mi vida he tenido multitud de contactos con multitud de gente sería
 > A lo largo de - to ??  
 > mi vida - my life  
@@ -297,3 +309,5 @@ Viví mucho con personas mayores y las he conocido muy de cerca
 > demasiado - too  
 > mi opinión sobre ellas - my opinion about girls(them).  
 > But this has not too(greatly) improved my opinion about them  
+
+#
