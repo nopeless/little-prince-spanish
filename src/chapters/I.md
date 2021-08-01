@@ -70,7 +70,7 @@ Reflexioné mucho en ese momento sobre las aventuras de la jungla y a mi vez log
 > momento - moment  
 > sobre las aventuras - about the adventures  
 > de la jungla - of the jungle  
-> y a mi vez - and to my time  
+> y a mi vez - and at my time  
 > logré - I achieved - lograr first person s pret conj  
 > trazar - to draw  
 > con - with  
@@ -78,3 +78,79 @@ Reflexioné mucho en ese momento sobre las aventuras de la jungla y a mi vez log
 > de colores - of colors  
 > mi primer - my first  
 > dibujo - drawing  
+> I reflected much in that moment abot the adventures of the jungle and at my time I achieved to draw with a pencil of colors (~to draw) my first drawing.  
+
+Mi dibujo número 1 era de esta manera:
+> Mi - my  
+> dibujo - drawing  
+> número 1 - number 1  
+> era - was; ser third person s conj indi-imp  
+> de - of  
+> esta - this  
+> manera - way  
+
+![Dibujo número 1](https://cdn.discordapp.com/attachments/799265265820237834/871462342624419860/unknown.png)
+
+Enseñé mi obra de arte a las personas mayores y les pregunté si mi dibujo les daba miedo.
+> Enseñé - taught/showed; enseñar yo preterite  
+> mi - my  
+> obra - work  
+> de arte a las personas mayores y - of art to the old people and  
+> les pregunté - asked them; preguntar yo preterite  
+> si mi dibujo - if my drawing (give)  
+> les daba - give them; dar yo/él indi-imp conj; use imperfect because talking about feelings  
+> miedo - fear  
+> I showed my work to the old people and asked them if my drawing gave them fear.  
+
+¿Por qué habría de asustar un sombrero?
+> Por qué - why  
+> habría - have; haber yo/él cond conj (would/could/should)  
+> de - of/from  
+> asustar - to scare  
+> un sombrero? - a hat (subject)  
+> why should ??  
+
+Mi dibujo no representaba un sombrero.
+> Mi dibujo - My drawing  
+> no representaba - does not represent; representar indi-imp él conj  
+> un sombrero - a hat  
+> My drawing does not represent a hat  
+
+Representaba una serpiente boa que digiere un elefante.
+> Representaba - It(drawing) represents  
+> una serpiente boa - a boa snake  
+> que digiere - that digest; digerir él present  
+> un elefante - an elephant  
+> It represents a boa snake that digest an elephant.  
+
+Dibujé entonces el interior de la serpiente boa a fin de que las personas mayores pudieran comprender.
+> Dibujé - I drew; dibujar yo preterite  
+> entonces - then; not plural. "entonces" is a word for "then"  
+> el interior - the interior  
+> de la serpiente boa - of the boa snake  
+> a - to  
+> fin - n. end  
+> de que - of that  
+> personas mayores - old people  
+> pudieran - can; poder subj-imp; from 'I' perspective  
+> comprender - to understand  
+> I then drew the interior of the boa snake ??? that old can could understand  
+
+Siempre estas personas tienen necesidad de explicaciones.
+> Siempre - always  
+> estas - these; fem; estás = estar él conj  
+> personas - people  
+> tienen - they have; tener ellos conj  
+> necesidad - n. need  
+> de - of  
+> explicaciones - explanations; pural of explicación  
+> These people always have need of explanations  
+
+Mi dibujo número 2 era así:
+> Mi dibujo número 2 - my drawing number 2  
+> era - would be; ser indi-imp él conj  
+> así - like this/that; así also means so, thus, well  
+> My drawing number 2 looked like this:  
+
+![Dibujo número 2](https://cdn.discordapp.com/attachments/799265265820237834/871462376690548787/unknown.png)
+
