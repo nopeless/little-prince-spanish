@@ -154,3 +154,146 @@ Mi dibujo número 2 era así:
 
 ![Dibujo número 2](https://cdn.discordapp.com/attachments/799265265820237834/871462376690548787/unknown.png)
 
+Las personas mayores me aconsejaron abandonar el dibujo de serpientes boas, ya fueran abiertas o cerradas, 
+> Las personas mayores - the old people  
+> me - me  
+> aconsejaron - they advised; aconsejar  
+> abandonar - to abandon;  
+> el dibujo de serpientes boas - the boa snakes drawings  
+> ya - already  
+> fueran - were; ser subj-imp conj  
+> abiertas - open; abierto  
+> o cerradas - closed; cerrado
+> ##### *ya fueran - whether  
+> The old people advised me to abandon the boa snake drawings, whether open or closed,  
+
+y poner más interés en la geografía, la historia, el cálculo y la gramática.
+> y - and  
+> poner - to put  
+> más interés - more interest  
+> en - in  
+> la geografía - geography  
+> la historia - history  
+> cálculo - calculus  
+> y la gramática - and grammar  
+> and put more interest in geography, history, calculus, and grammar.  
+
+De esta manera a la edad de seis años abandoné una magnífica carrera de pintor.
+> De - of/in  
+> esta manera - this way  
+> a la - at the  
+> edad - age  
+> de seis años - of six years  
+> abandoné - I abandoned; abandonar yo pret conj  
+> una magnífica - a magnificent  
+> carrera - carrer  
+> de pintor - of painter  
+> In this way, at the age of six, I abandoned a magnificent career of painter  
+
+Había quedado desilusionado por el fracaso de mis dibujos número 1 y número 2.
+> Había - I was having; haber yo indi-imp  
+> quedado - (being) left; past p of quedar - to be left;  
+> desilusionado - disappointing; past p of desilusionar - to disappoint;  
+> por el - for the  
+> fracaso - failure  
+> de mis dibujos número 1 y número 2. - of my drawings number 1 and number 2  
+> I was left disappointed?? for the failure of my drawings number 1 and number 2  
+
+Las personas mayores nuncapueden comprender algo por sí solas y
+> Las personas mayores - The old people  
+> nunca - adv. never  
+> pueden - they can  
+> comprender - to understand  
+> algo - thing  
+> por sí solas - for ??  
+> y - and  
+> The old people can never understand thing for ?? and  
+
+es muy aburrido para los niños tener que darles una y otra vez explicaciones
+> es - it is  
+> muy - very  
+> aburrido - boring  
+> para los niños tener que - for kids to have that  
+> darles - give them ; dar (to give) + les(them)  
+> una y otra - una (one) y (and) otra (another); you do not put 'a' in front of 'other'  
+> vez explicaciones - time explanations  
+> it is very boring for kids to have to (that) give them one and another time explanations;  
+
+![Boa snake](https://cdn.discordapp.com/attachments/799265265820237834/871462409611673640/unknown.png)
+
+Tuve, pues, que elegir otro oficio y aprendía pilotear aviones.
+> Tuve - I had; tener yo pret conj  
+> pues - then/well/so  
+> que - that/to  
+> elegir - to choose  
+> otro - other  
+> oficio - job  
+> y - and  
+> aprendía - learned; aprender yo indi-imp conj; ?? I'm not sure why imperfect is used here;
+> pilotear - to pilot; pilotar (same word)  
+> aviones - planes; plural of avión  
+> Well, I had to choose another job and learned to pilot planes  
+
+He volado un poco por todo el mundo y la geografía
+> He - have; haber yo conj  
+> volado - flown/flying; past p of volar - to fly  
+> un poco por todo el mundo - a little for every?? the world and the geography  
+> I have flown a little for ?? the world and geography  
+
+, en efecto, me ha servido de mucho:
+> en efecto - in effect  
+> me ha - It has ... me  
+> servido - to serve; past p of servir;  
+> de mucho - of much  
+> In effect, it has served me a lot:  
+
+al primer vistazo podía distinguir perfectamente la China de Arizona.
+> al primer - to the first  
+> vistazo - visit  
+> podía - could; poder yo indi-imp  
+> distinguir - to distinguish; distinguir  
+> perfectamente - perfectly  
+> la China de Arizona - a China from Arizona  
+> To the first visit I could perfectly distinguish China from Arizona  
+
+Esto es muy útil,
+> Esto - this  
+> es muy - is very  
+> útil - useful  
+> this is very useful,  
+
+sobre todo si se pierde uno durante la noche
+> sobre todo - about every; especially  
+> si se - if oneself  
+> pierde - you lose; perder él conj  
+> uno durante la noche - one duration a night; one overnight  
+> especially if you lose oneself(yourself) during the night  
+
+A lo largo de mi vida he tenido multitud de contactos con multitud de gente sería
+> A lo largo de - to ??  
+> mi vida - my life  
+> he - I have  
+> tenido - had; past p of tener  
+> multitud - n. multitude  
+> de - of  
+> contactos - n. contacts  
+> con multitud de - with multitude of  
+> gente sería - serious people  
+> To ?? my life, I have had multitude of contacts with multitude of serious people.  
+
+Viví mucho con personas mayores y las he conocido muy de cerca
+> Viví - I lived; vivir yo pret conj  
+> mucho con personas mayores y - much with old people and  
+> las he - I have ... them  
+> conocido - known; past p of conocer  
+> muy de - many of  
+> cerca - closely  
+> I lived much with old people and I have known many of closely  
+
+; pero esto no ha mejorado demasiado mi opinión sobre ellas.
+> pero esto no - but this no  
+> ha - it has  
+> mejorando - getting better; present p of mejorar - to improve  
+> demasiado - too  
+> mi opinión sobre ellas - my opinion about girls(them).  
+> But this has not too(greatly) improved my opinion about them  
