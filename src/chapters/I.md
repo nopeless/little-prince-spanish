@@ -311,3 +311,74 @@ Viví mucho con personas mayores y las he conocido muy de cerca
 > But this has not too(greatly) improved my opinion about them  
 
 #
+
+Cuando me he encontrado con alguien que me parecia un poco lúcido,
+> Cuando - when  
+> me he - I have ... myself  
+> encontrado - encountered; past participle of encontrar;  
+> con alguien - with someone  
+> que me - that ... to me  
+> parecía - seemed; parecer él indi-imp conj  
+> un poco - a little  
+> lúcido - adj. bright; v. yo conj of lucir - to shine  
+> When I have encountered myself with someone that seemed a little bright to me  
+
+lo he sometido a la experiencia de mi dibujo numero 1 que he conservado siempre.
+> lo he - I have ... him/her  
+> sometido - subjected; past p of someter - to subdue, to subject  
+> a la experiencia de mi dibujo numero 1 que - to the experience of my drawing number 1 that  
+> he - I have  
+> conservado - conserved; past p of conservar - to maintain  
+> siempre - always  
+> I have subjected him/her to the experience of my drawing number 1 that I have always kept.  
+
+Quería saber si verdaderamente era un ser comprensivo. 
+> Quería - I was wanting  
+> saber - to know  
+> si - if  
+> verdaderamente - truely  
+> era - was; ser él indi-imp  
+> ser - to be; being  
+> comprensivo - adj. understanding  
+> I was wanting to know if (he/she) truely was understanding being  
+
+E invariablemente me contestaban siempre:
+> E - and; this is 'y' but used before a word starting with 'i' or 'hi'  
+> invariablemente - invariably  
+> me contestaban - they were answering ... (to) me; contestar ellos indi-imp conj - to ansewr  
+> siempre - always  
+> And invariably they were answering(used to answer) to me always:  
+
+"Es un sombrero".
+> Es un sombrero - It's a hat; This is the first sentence you can understand without any explanation  
+
+Me abstenía de hablarles de la serpiente boa, de la selva virgen y de las estrellas.
+> Me abstenía - Abstained?? ... me  
+> de hablarles - of to talk (talking)  
+> de la serpiente boa; of the boa snake  
+> de la selva viergen - the virgin forest  
+> y de las estrellas - and of the stars; plural of estrella  
+> I abstained?? from talking of the boa snake, the virgin forest and of the stars.  
+
+Poniéndome a su altura, les hablaba de bridge, del golf, de política y de corbatas.
+> Poniéndome - putting myself; Poniéndo + me  
+> a - to  
+> su altura - su(his/her) altura(height)  
+> les hablaba - I was speaking ... to them  
+> de bridge - of bridge  
+> del golf - of the golf  
+> de política - of politics  
+> de corbatas - of ties; plural of corbata  
+> Putting myself to his/her height, I was talking (used to talk) of bridge, of golf, of politics, of ties to them  
+
+Y mi interlocutor se quedaba muy contento de conocer a un hombre tan razonable.
+> Y mi - and my  
+> interlocutor - intercommunicador; talker. This word is rarely used  
+> se - was  
+> muy contento de conocer - very happy of to know  
+> a un hombre - a(of) a man  
+> tan - adv. so  
+> razonable - reasonable  
+> And my talker (my inner talker) was very happy of knowing of a such reasonable man  
+
+#
